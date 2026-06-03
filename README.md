@@ -30,7 +30,7 @@ TOB = H + (HR × 3) + (2B × 2) + (3B × 2) + BB + SB
 ```
 Rewards all forms of offensive contribution weighted by value without being as context-dependent as RBI.
  
-**Positional Adjustments Applied:**
+**Positional Adjustments Applied (full FanGraphs defensive spectrum):**
  
 | Position | Adjustment |
 |---|---|
@@ -39,12 +39,12 @@ Rewards all forms of offensive contribution weighted by value without being as c
 | Second Base | +2.5 |
 | Center Field | +2.5 |
 | Third Base | +2.5 |
-| Right Field | 0 |
-| Left Field | 0 |
-| First Base | 0 |
-| DH | 0 |
+| Right Field | -7.5 |
+| Left Field | -7.5 |
+| First Base | -12.5 |
+| DH | -17.5 |
  
-**Methodology note:** Without positional adjustment the model treated a catcher's war7 and tob identically to a first baseman's. A catcher accumulates those numbers while doing something far more defensively demanding, and HOF voters have historically reflected that. The pos_adj feature explicitly encodes that context.
+The random forest uses the full FanGraphs spectrum including negative adjustments for easier defensive positions. This means a first baseman or DH is explicitly penalized relative to a neutral baseline, reflecting that their offensive numbers come at a positional discount.
  
 **Why include scandal as a feature?** Rather than removing PED users and other scandal players from the dataset, the scandal boolean allows the model to explicitly learn that statistically elite players can be excluded from the HOF for non-performance reasons. Barry Bonds and Alex Rodriguez score near 100% on statistical grounds but are correctly classified as non-inducted — the model has learned the character clause is a real factor in induction, not just statistics.
  
@@ -64,6 +64,24 @@ A logistic regression model for position players using a smaller, more interpret
 - `war7` — Peak 7-year WAR, the foundation of the JAWS system. Captures sustained excellence at a player's best rather than career longevity, which is more representative of true talent
 - `tob` — Times On Base, a custom career counting metric defined as `H + (HR × 3) + (2B × 2) + (3B × 2) + BB + SB`. Rewards all forms of offensive contribution weighted by value
 - `pos_adj` — Positional adjustment based on FanGraphs defensive spectrum standards. Added explicitly because the model without it significantly undervalued catchers and middle infielders relative to corner outfielders and first basemen
+**Positional Adjustments Applied (rewards only — 0 or greater):**
+ 
+| Position | Adjustment |
+|---|---|
+| Catcher | +12.5 |
+| Shortstop | +7.5 |
+| Second Base | +2.5 |
+| Center Field | +2.5 |
+| Third Base | +2.5 |
+| Right Field | 0 |
+| Left Field | 0 |
+| First Base | 0 |
+| DH | 0 |
+ 
+The logistic regression uses a rewards-only adjustment — harder positions receive a bonus but easier positions are not penalized. Corner outfielders, first basemen, and DHs receive 0 rather than a negative value. This is a more conservative approach that encodes positional scarcity without explicitly discounting easier positions.
+ 
+**Positional adjustment difference between models:** The logistic regression and random forest use different adjustment scales. A first baseman receives 0 in the logistic regression but -12.5 in the random forest. This means the random forest will produce lower HOF probabilities for first basemen and DHs relative to the logistic regression, and higher relative probabilities for catchers and shortstops. Neither approach is strictly correct — they reflect different philosophical choices about how to encode positional value.
+ 
 **When to use logistic regression vs random forest:** The logistic regression model produces a clean interpretable formula — each coefficient tells you exactly how much a unit increase in war7 or tob shifts HOF probability. The random forest is more accurate but a black box. Use logistic regression when you want to explain the model's reasoning to a non-technical audience. Use the random forest when you want the most accurate probability estimate.
  
 ---
