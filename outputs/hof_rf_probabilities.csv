@@ -1,0 +1,678 @@
+,name,hof_prob,hof,hof_prob_pct
+1,Roberto Clemente HOF,1.0,Yes,100.0%
+2,Rod Carew HOF,1.0,Yes,100.0%
+3,Al Kaline HOF,1.0,Yes,100.0%
+4,George Brett HOF,0.999,Yes,99.9%
+5,Joe Morgan HOF,0.999,Yes,99.9%
+6,Ken Griffey Jr. HOF,0.999,Yes,99.9%
+7,Cal Ripken Jr. HOF,0.999,Yes,99.9%
+8,Frank Robinson HOF,0.998,Yes,99.8%
+9,Ernie Banks HOF,0.998,Yes,99.8%
+10,Brooks Robinson HOF,0.997,Yes,99.7%
+11,Andre Dawson HOF,0.997,Yes,99.7%
+12,Reggie Jackson HOF,0.997,Yes,99.7%
+13,Chipper Jones HOF,0.996,Yes,99.6%
+14,Derek Jeter HOF,0.996,Yes,99.6%
+15,Tony Gwynn HOF,0.995,Yes,99.5%
+16,Mickey Mantle HOF,0.994,Yes,99.4%
+17,Ryne Sandberg HOF,0.994,Yes,99.4%
+18,Wade Boggs HOF,0.993,Yes,99.3%
+19,Eddie Mathews HOF,0.992,Yes,99.2%
+20,Mike Schmidt HOF,0.99,Yes,99.0%
+21,Joe DiMaggio HOF,0.988,Yes,98.8%
+22,Ted Williams HOF,0.988,Yes,98.8%
+23,Roberto Alomar HOF,0.987,Yes,98.7%
+24,Rickey Henderson HOF,0.987,Yes,98.7%
+25,Vladimir Guerrero HOF,0.986,Yes,98.6%
+26,Barry Larkin HOF,0.985,Yes,98.5%
+27,Carl Yastrzemski HOF,0.985,Yes,98.5%
+28,Craig Biggio HOF,0.984,Yes,98.4%
+29,Ichiro Suzuki HOF,0.982,Yes,98.2%
+30,Frank Thomas HOF,0.982,Yes,98.2%
+31,Tim Raines HOF,0.981,Yes,98.1%
+32,Stan Musial HOF,0.981,Yes,98.1%
+33,Henry Aaron HOF,0.979,Yes,97.9%
+34,Enos Slaughter HOF,0.973,Yes,97.3%
+35,Edgar Martínez HOF,0.971,Yes,97.1%
+36,Ron Santo HOF,0.967,Yes,96.7%
+37,Carlton Fisk HOF,0.967,Yes,96.7%
+38,Gary Carter HOF,0.958,Yes,95.8%
+39,Johnny Bench HOF,0.953,Yes,95.3%
+40,Dave Winfield HOF,0.951,Yes,95.1%
+41,Willie Mays HOF,0.942,Yes,94.2%
+42,Duke Snider HOF,0.938,Yes,93.8%
+43,Willie Stargell HOF,0.936,Yes,93.6%
+44,Johnny Mize HOF,0.933,Yes,93.3%
+45,Jim Thome HOF,0.932,Yes,93.2%
+46,Kirby Puckett HOF,0.932,Yes,93.2%
+47,Harmon Killebrew HOF,0.922,Yes,92.2%
+48,Billy Williams HOF,0.918,Yes,91.8%
+49,Yogi Berra HOF,0.916,Yes,91.6%
+50,Paul Molitor HOF,0.91,Yes,91.0%
+51,David Ortiz HOF,0.906,Yes,90.6%
+52,Joe Gordon HOF,0.903,Yes,90.3%
+53,Ozzie Smith HOF,0.902,Yes,90.2%
+54,Iván Rodríguez HOF,0.902,Yes,90.2%
+55,Nellie Fox HOF,0.898,Yes,89.8%
+56,Minnie Miñoso HOF,0.89,Yes,89.0%
+57,Jackie Robinson HOF,0.89,Yes,89.0%
+58,Jim Rice HOF,0.888,Yes,88.8%
+59,Tony Pérez HOF,0.888,Yes,88.8%
+60,Mike Piazza HOF,0.887,Yes,88.7%
+61,Lou Boudreau HOF,0.883,Yes,88.3%
+62,Carlos Beltrán HOF,0.882,Yes,88.2%
+63,Willie McCovey HOF,0.882,Yes,88.2%
+64,Todd Helton HOF,0.874,Yes,87.4%
+65,Adrian Beltré HOF,0.872,Yes,87.2%
+66,Jeff Kent HOF,0.868,Yes,86.8%
+67,Jeff Bagwell HOF,0.853,Yes,85.3%
+68,Eddie Murray HOF,0.85,Yes,85.0%
+69,Pee Wee Reese HOF,0.84,Yes,84.0%
+70,Alan Trammell HOF,0.832,Yes,83.2%
+71,Joe Mauer HOF,0.826,Yes,82.6%
+72,Orlando Cepeda HOF,0.825,Yes,82.5%
+73,Fred McGriff HOF,0.823,Yes,82.3%
+74,Richie Ashburn HOF,0.818,Yes,81.8%
+75,Larry Walker HOF,0.804,Yes,80.4%
+76,Larry Doby HOF,0.8,Yes,80.0%
+77,Robin Yount HOF,0.791,Yes,79.1%
+78,Dick Allen HOF,0.776,Yes,77.6%
+79,Lou Brock HOF,0.743,Yes,74.3%
+80,Bobby Doerr HOF,0.732,Yes,73.2%
+81,Red Schoendienst HOF,0.72,Yes,72.0%
+82,Scott Rolen HOF,0.714,Yes,71.4%
+83,Ted Simmons HOF,0.702,Yes,70.2%
+84,Tony Oliva HOF,0.7,Yes,70.0%
+85,Ralph Kiner HOF,0.684,Yes,68.4%
+86,Keith Hernandez,0.681,No,68.1%
+87,Joe Torre HOF,0.658,Yes,65.8%
+88,George Kell HOF,0.656,Yes,65.6%
+89,Luis Aparicio HOF,0.641,Yes,64.1%
+90,Kenny Lofton,0.629,No,62.9%
+91,Phil Rizzuto HOF,0.626,Yes,62.6%
+92,Dale Murphy,0.626,No,62.6%
+93,Harold Baines HOF,0.605,Yes,60.5%
+94,Andruw Jones HOF,0.526,Yes,52.6%
+95,Dave Parker HOF,0.472,Yes,47.2%
+96,Reggie Smith,0.401,No,40.1%
+97,Ken Boyer,0.353,No,35.3%
+98,Roy Campanella HOF,0.306,Yes,30.6%
+99,Will Clark,0.301,No,30.1%
+100,Graig Nettles,0.238,No,23.8%
+101,Sal Bando,0.229,No,22.9%
+102,David Wright,0.223,No,22.3%
+103,Fred Lynn,0.22,No,22.0%
+104,Chase Utley,0.203,No,20.3%
+105,Dwight Evans,0.198,No,19.8%
+106,Bob Johnson,0.178,No,17.8%
+107,Nomar Garciaparra,0.155,No,15.5%
+108,Lance Berkman,0.145,No,14.5%
+109,Miguel Tejada,0.133,No,13.3%
+110,Troy Tulowitzki,0.124,No,12.4%
+111,Bill Mazeroski HOF,0.118,Yes,11.8%
+112,Bob Elliott,0.118,No,11.8%
+113,Vada Pinson,0.114,No,11.4%
+114,Steve Garvey,0.112,No,11.2%
+115,Rocky Colavito,0.103,No,10.3%
+116,Jim Fregosi,0.102,No,10.2%
+117,Eddie Stanky,0.094,No,9.4%
+118,Rusty Staub,0.09,No,9.0%
+119,Al Oliver,0.09,No,9.0%
+120,Bill Freehan,0.089,No,8.9%
+121,José Bautista,0.086,No,8.6%
+122,Vern Stephens,0.085,No,8.5%
+123,Don Mattingly,0.078,No,7.8%
+124,Dustin Pedroia,0.076,No,7.6%
+125,Barry Bonds,0.074,No,7.4%
+126,Thurman Munson,0.074,No,7.4%
+127,George Foster,0.069,No,6.9%
+128,Jason Giambi,0.069,No,6.9%
+129,Bobby Grich,0.066,No,6.6%
+130,Roger Maris,0.065,No,6.5%
+131,Alex Rodriguez,0.063,No,6.3%
+132,Pete Rose,0.061,No,6.1%
+133,Buddy Bell,0.061,No,6.1%
+134,Manny Ramirez,0.059,No,5.9%
+135,Luis Gonzalez,0.059,No,5.9%
+136,Dolph Camilli,0.057,No,5.7%
+137,Gary Sheffield,0.056,No,5.6%
+138,Harvey Kuenn,0.055,No,5.5%
+139,Elston Howard,0.054,No,5.4%
+140,Sammy Sosa,0.053,No,5.3%
+141,José Cruz,0.049,No,4.9%
+142,Matt Holliday,0.049,No,4.9%
+143,Rafael Palmeiro,0.049,No,4.9%
+144,Carlos Delgado,0.048,No,4.8%
+145,Albert Belle,0.048,No,4.8%
+146,Jim Edmonds,0.048,No,4.8%
+147,Matt Williams,0.048,No,4.8%
+148,Dick Groat,0.047,No,4.7%
+149,Jimmy Rollins,0.046,No,4.6%
+150,John Olerud,0.046,No,4.6%
+151,Gil Hodges HOF,0.046,Yes,4.6%
+152,Willie Randolph,0.044,No,4.4%
+153,Mark McGwire,0.044,No,4.4%
+154,Lou Whitaker,0.043,No,4.3%
+155,Maury Wills,0.043,No,4.3%
+156,Bill Buckner,0.04,No,4.0%
+157,Al Dark,0.04,No,4.0%
+158,Pedro Guerrero,0.038,No,3.8%
+159,Omar Vizquel,0.035,No,3.5%
+160,Bobby Abreu,0.035,No,3.5%
+161,Magglio Ordóñez,0.034,No,3.4%
+162,Bert Campaneris,0.034,No,3.4%
+163,Bernie Williams,0.034,No,3.4%
+164,Darryl Strawberry,0.028,No,2.8%
+165,Bobby Bonds,0.025,No,2.5%
+166,Jack Clark,0.025,No,2.5%
+167,Mickey Vernon,0.025,No,2.5%
+168,Johnny Damon,0.024,No,2.4%
+169,Moisés Alou,0.022,No,2.2%
+170,Norm Cash,0.022,No,2.2%
+171,Torii Hunter,0.022,No,2.2%
+172,Bill Nicholson,0.022,No,2.2%
+173,Dave Concepción,0.02,No,2.0%
+174,Adrián González,0.018,No,1.8%
+175,Jim Wynn,0.017,No,1.7%
+176,Augie Galan,0.016,No,1.6%
+177,Gil McDougald,0.016,No,1.6%
+178,Gene Tenace,0.015,No,1.5%
+179,Garret Anderson,0.015,No,1.5%
+180,Lonny Frey,0.015,No,1.5%
+181,Cecil Cooper,0.015,No,1.5%
+182,Amos Otis,0.014,No,1.4%
+183,Frank McCormick,0.013,No,1.3%
+184,Andrés Galarraga,0.012,No,1.2%
+185,Ted Kluszewski,0.011,No,1.1%
+186,Del Crandall,0.011,No,1.1%
+187,Ray Durham,0.011,No,1.1%
+188,Hanley Ramírez,0.011,No,1.1%
+189,Willie Wilson,0.011,No,1.1%
+190,Julio Franco,0.011,No,1.1%
+191,Steve Finley,0.011,No,1.1%
+192,Willie Davis,0.01,No,1.0%
+193,José Canseco,0.01,No,1.0%
+194,Ron Cey,0.01,No,1.0%
+195,Zoilo Versalles,0.01,No,1.0%
+196,Jorge Posada,0.008,No,0.8%
+197,Michael Young,0.008,No,0.8%
+198,Ryan Howard,0.008,No,0.8%
+199,Lance Parrish,0.007,No,0.7%
+200,Bobby Bonilla,0.007,No,0.7%
+201,Darrell Evans,0.007,No,0.7%
+202,Paul Konerko,0.007,No,0.7%
+203,Carlos Lee,0.006,No,0.6%
+204,Bill White,0.006,No,0.6%
+205,Dick McAuliffe,0.006,No,0.6%
+206,Tommy Henrich,0.006,No,0.6%
+207,Paul O'Neill,0.005,No,0.5%
+208,Alfonso Soriano,0.005,No,0.5%
+209,Tony Fernández,0.005,No,0.5%
+210,Joe Carter,0.005,No,0.5%
+211,Curtis Granderson,0.005,No,0.5%
+212,Terry Pendleton,0.005,No,0.5%
+213,Andy Van Slyke,0.005,No,0.5%
+214,Ben Zobrist,0.005,No,0.5%
+215,Chuck Knoblauch,0.005,No,0.5%
+216,Ken Singleton,0.005,No,0.5%
+217,Adam Dunn,0.005,No,0.5%
+218,Mark Teixeira,0.004,No,0.4%
+219,Ken Caminiti,0.004,No,0.4%
+220,Brett Butler,0.004,No,0.4%
+221,Boog Powell,0.004,No,0.4%
+222,Frank Howard,0.004,No,0.4%
+223,Ellis Burks,0.004,No,0.4%
+224,Cecil Fielder,0.004,No,0.4%
+225,César Cedeño,0.004,No,0.4%
+226,Ken Keltner,0.003,No,0.3%
+227,Orlando Cabrera,0.003,No,0.3%
+228,Chili Davis,0.003,No,0.3%
+229,Felipe Alou,0.003,No,0.3%
+230,Bobby Murcer,0.003,No,0.3%
+231,Rudy York,0.003,No,0.3%
+232,Wally Joyner,0.003,No,0.3%
+233,Lenny Dykstra,0.003,No,0.3%
+234,Reggie Sanders,0.003,No,0.3%
+235,Del Ennis,0.002,No,0.2%
+236,Jim Gilliam,0.002,No,0.2%
+237,Don Kessinger,0.002,No,0.2%
+238,Plácido Polanco,0.002,No,0.2%
+239,Kent Hrbek,0.002,No,0.2%
+240,J.D. Drew,0.002,No,0.2%
+241,Alex Ríos,0.002,No,0.2%
+242,Paul Blair,0.002,No,0.2%
+243,Roy Sievers,0.002,No,0.2%
+244,Aramis Ramírez,0.002,No,0.2%
+245,Russell Martin,0.002,No,0.2%
+246,Juan González,0.002,No,0.2%
+247,Vic Power,0.002,No,0.2%
+248,Marty Marion,0.002,No,0.2%
+249,George McQuinn,0.002,No,0.2%
+250,Dom DiMaggio,0.002,No,0.2%
+251,Gary Gaetti,0.002,No,0.2%
+252,Chet Lemon,0.001,No,0.1%
+253,Bill Madlock,0.001,No,0.1%
+254,Willie McGee,0.001,No,0.1%
+255,John Roseboro,0.001,No,0.1%
+256,Jason Kendall,0.001,No,0.1%
+257,Larry Bowa,0.001,No,0.1%
+258,Rubén Sierra,0.001,No,0.1%
+259,Mark Grace,0.001,No,0.1%
+260,Phil Cavarretta,0.001,No,0.1%
+261,Wally Moses,0.001,No,0.1%
+262,Bill Skowron,0.001,No,0.1%
+263,Kirk Gibson,0.001,No,0.1%
+264,Walker Cooper,0.001,No,0.1%
+265,Davey Lopes,0.001,No,0.1%
+266,Frank White,0.001,No,0.1%
+267,Roy White,0.001,No,0.1%
+268,Bret Boone,0.001,No,0.1%
+269,Tommy Harper,0.001,No,0.1%
+270,Bobby Richardson,0.001,No,0.1%
+271,George Bell,0.001,No,0.1%
+272,Pete Runnels,0.001,No,0.1%
+273,Johnny Pesky,0.001,No,0.1%
+274,Eddie Joost,0.001,No,0.1%
+275,Johnny Temple,0.001,No,0.1%
+276,Garry Templeton,0.001,No,0.1%
+277,Dave Kingman,0.001,No,0.1%
+278,Lee Lacy,0.0,No,0.0%
+279,Hal McRae,0.0,No,0.0%
+280,Rondell White,0.0,No,0.0%
+281,Vince Coleman,0.0,No,0.0%
+282,Wally Moon,0.0,No,0.0%
+283,Dmitri Young,0.0,No,0.0%
+284,Cliff Floyd,0.0,No,0.0%
+285,Mike Greenwell,0.0,No,0.0%
+286,Jeffrey Leonard,0.0,No,0.0%
+287,Kevin McReynolds,0.0,No,0.0%
+288,Gary Matthews,0.0,No,0.0%
+289,Ben Oglivie,0.0,No,0.0%
+290,B.J. Surhoff,0.0,No,0.0%
+291,Greg Vaughn,0.0,No,0.0%
+292,Gene Woodling,0.0,No,0.0%
+293,Rico Carty,0.0,No,0.0%
+294,Luis Polonia,0.0,No,0.0%
+295,Ron Gant,0.0,No,0.0%
+296,Dusty Baker,0.0,No,0.0%
+297,Don Baylor,0.0,No,0.0%
+298,Lou Piniella,0.0,No,0.0%
+299,Jason Bay,0.0,No,0.0%
+300,Jeff Conine,0.0,No,0.0%
+301,Frank Thomas,0.0,No,0.0%
+302,Whitey Lockman,0.0,No,0.0%
+303,Raúl Ibañez,0.0,No,0.0%
+304,Tommy Davis,0.0,No,0.0%
+305,Pat Burrell,0.0,No,0.0%
+306,Hideki Matsui,0.0,No,0.0%
+307,Melky Cabrera,0.0,No,0.0%
+308,Geoff Jenkins,0.0,No,0.0%
+309,Bobby Higginson,0.0,No,0.0%
+310,Richie Zisk,0.0,No,0.0%
+311,Willie Horton,0.0,No,0.0%
+312,Hank Sauer,0.0,No,0.0%
+313,Carlos González,0.0,No,0.0%
+314,Dave Collins,0.0,No,0.0%
+315,Tito Francona,0.0,No,0.0%
+316,Greg Luzinski,0.0,No,0.0%
+317,Joe Rudi,0.0,No,0.0%
+318,Ralph Garr,0.0,No,0.0%
+319,Larry Herndon,0.0,No,0.0%
+320,Shannon Stewart,0.0,No,0.0%
+321,Bill Bruton,0.0,No,0.0%
+322,Devon White,0.0,No,0.0%
+323,Tommy Holmes,0.0,No,0.0%
+324,Terry Puhl,0.0,No,0.0%
+325,Jackie Jensen,0.0,No,0.0%
+326,Hank Bauer,0.0,No,0.0%
+327,Raúl Mondesí,0.0,No,0.0%
+328,Von Hayes,0.0,No,0.0%
+329,Jayson Werth,0.0,No,0.0%
+330,Ken Griffey,0.0,No,0.0%
+331,Carl Furillo,0.0,No,0.0%
+332,Brian Jordan,0.0,No,0.0%
+333,Bob Allison,0.0,No,0.0%
+334,Shawn Green,0.0,No,0.0%
+335,David Justice,0.0,No,0.0%
+336,Vic Wertz,0.0,No,0.0%
+337,Tim Salmon,0.0,No,0.0%
+338,Johnny Callison,0.0,No,0.0%
+339,Jesse Barfield,0.0,No,0.0%
+340,Brian Giles,0.0,No,0.0%
+341,Dave Philley,0.0,No,0.0%
+342,Juan Encarnación,0.0,No,0.0%
+343,Omar Moreno,0.0,No,0.0%
+344,Juan Beníquez,0.0,No,0.0%
+345,Rick Manning,0.0,No,0.0%
+346,Otis Nixon,0.0,No,0.0%
+347,Brian McRae,0.0,No,0.0%
+348,Elmer Valo,0.0,No,0.0%
+349,Nick Swisher,0.0,No,0.0%
+350,Mike Cameron,0.0,No,0.0%
+351,Tony Armas,0.0,No,0.0%
+352,Dante Bichette,0.0,No,0.0%
+353,Jeff Francoeur,0.0,No,0.0%
+354,Pat Kelly,0.0,No,0.0%
+355,José Guillén,0.0,No,0.0%
+356,Matt Stairs,0.0,No,0.0%
+357,Matt Lawton,0.0,No,0.0%
+358,Derek Bell,0.0,No,0.0%
+359,Al Cowens,0.0,No,0.0%
+360,Jay Johnstone,0.0,No,0.0%
+361,Pete Fox,0.0,No,0.0%
+362,Kevin Bass,0.0,No,0.0%
+363,Michael Cuddyer,0.0,No,0.0%
+364,Danny Tartabull,0.0,No,0.0%
+365,Jeff Burroughs,0.0,No,0.0%
+366,George Case,0.0,No,0.0%
+367,Claudell Washington,0.0,No,0.0%
+368,Jeromy Burnitz,0.0,No,0.0%
+369,Andre Ethier,0.0,No,0.0%
+370,Tom Brunansky,0.0,No,0.0%
+371,Al Smith,0.0,No,0.0%
+372,Jay Buhner,0.0,No,0.0%
+373,Oscar Gamble,0.0,No,0.0%
+374,Jim Northrup,0.0,No,0.0%
+375,Jermaine Dye,0.0,No,0.0%
+376,Mickey Stanley,0.0,No,0.0%
+377,Darryl Hamilton,0.0,No,0.0%
+378,Gus Bell,0.0,No,0.0%
+379,Lance Johnson,0.0,No,0.0%
+380,Denard Span,0.0,No,0.0%
+381,George Hendrick,0.0,No,0.0%
+382,Lloyd Moseby,0.0,No,0.0%
+383,Tony González,0.0,No,0.0%
+384,César Tovar,0.0,No,0.0%
+385,Dave Henderson,0.0,No,0.0%
+386,Vernon Wells,0.0,No,0.0%
+387,Jim Piersall,0.0,No,0.0%
+388,Rick Monday,0.0,No,0.0%
+389,Marquis Grissom,0.0,No,0.0%
+390,Adam Jones,0.0,No,0.0%
+391,Jacoby Ellsbury,0.0,No,0.0%
+392,Ken Henderson,0.0,No,0.0%
+393,Shane Victorino,0.0,No,0.0%
+394,Mickey Rivers,0.0,No,0.0%
+395,Darin Erstad,0.0,No,0.0%
+396,Bobby Thomson,0.0,No,0.0%
+397,Dwayne Murphy,0.0,No,0.0%
+398,Brady Anderson,0.0,No,0.0%
+399,Andy Pafko,0.0,No,0.0%
+400,Eric Davis,0.0,No,0.0%
+401,Garry Maddox,0.0,No,0.0%
+402,Ray Lankford,0.0,No,0.0%
+403,Curt Flood,0.0,No,0.0%
+404,Coco Crisp,0.0,No,0.0%
+405,Randy Winn,0.0,No,0.0%
+406,Marlon Byrd,0.0,No,0.0%
+407,Stan Javier,0.0,No,0.0%
+408,Chris Young,0.0,No,0.0%
+409,Juan Pierre,0.0,No,0.0%
+410,Del Unser,0.0,No,0.0%
+411,Sam Chapman,0.0,No,0.0%
+412,B.J. Upton,0.0,No,0.0%
+413,José Cruz,0.0,No,0.0%
+414,Dave Martinez,0.0,No,0.0%
+415,Bill Virdon,0.0,No,0.0%
+416,José Cardenal,0.0,No,0.0%
+417,Roberto Kelly,0.0,No,0.0%
+418,Terry Moore,0.0,No,0.0%
+419,Jim Landis,0.0,No,0.0%
+420,Mookie Wilson,0.0,No,0.0%
+421,Gorman Thomas,0.0,No,0.0%
+422,David DeJesus,0.0,No,0.0%
+423,Carl Everett,0.0,No,0.0%
+424,Jerry Mumphrey,0.0,No,0.0%
+425,Ruppert Jones,0.0,No,0.0%
+426,Mark Kotsay,0.0,No,0.0%
+427,Michael Bourn,0.0,No,0.0%
+428,Matty Alou,0.0,No,0.0%
+429,Al Bumbry,0.0,No,0.0%
+430,Carlos Gómez,0.0,No,0.0%
+431,Jeff Heath,0.0,No,0.0%
+432,Rafael Furcal,0.0,No,0.0%
+433,Lonnie Smith,0.0,No,0.0%
+434,Steve Sax,0.0,No,0.0%
+435,Davey Johnson,0.0,No,0.0%
+436,Luis Castillo,0.0,No,0.0%
+437,Phil Garner,0.0,No,0.0%
+438,Brandon Phillips,0.0,No,0.0%
+439,Bobby Ávila,0.0,No,0.0%
+440,Brian Roberts,0.0,No,0.0%
+441,Orlando Hudson,0.0,No,0.0%
+442,Ron Hunt,0.0,No,0.0%
+443,Mark Ellis,0.0,No,0.0%
+444,Bill Doran,0.0,No,0.0%
+445,Robby Thompson,0.0,No,0.0%
+446,Don Buford,0.0,No,0.0%
+447,Tony Phillips,0.0,No,0.0%
+448,Ian Kinsler,0.0,No,0.0%
+449,Willie Montañez,0.0,No,0.0%
+450,Jim Spencer,0.0,No,0.0%
+451,Ed Kranepool,0.0,No,0.0%
+452,Deron Johnson,0.0,No,0.0%
+453,Joe Pepitone,0.0,No,0.0%
+454,J.T. Snow,0.0,No,0.0%
+455,James Loney,0.0,No,0.0%
+456,Eric Karros,0.0,No,0.0%
+457,David Segui,0.0,No,0.0%
+458,Billy Butler,0.0,No,0.0%
+459,Adam Lind,0.0,No,0.0%
+460,Kevin Millar,0.0,No,0.0%
+461,Tony Clark,0.0,No,0.0%
+462,Aaron Hill,0.0,No,0.0%
+463,Johnny Ray,0.0,No,0.0%
+464,Kelly Johnson,0.0,No,0.0%
+465,Mark Grudzielanek,0.0,No,0.0%
+466,Jody Reed,0.0,No,0.0%
+467,Omar Infante,0.0,No,0.0%
+468,Ted Sizemore,0.0,No,0.0%
+469,Harold Reynolds,0.0,No,0.0%
+470,Juan Samuel,0.0,No,0.0%
+471,Eric Young Sr.,0.0,No,0.0%
+472,Félix Millán,0.0,No,0.0%
+473,José Offerman,0.0,No,0.0%
+474,Don Blasingame,0.0,No,0.0%
+475,Frank Bolling,0.0,No,0.0%
+476,Mark McLemore,0.0,No,0.0%
+477,Mark Loretta,0.0,No,0.0%
+478,Jerry Priddy,0.0,No,0.0%
+479,Glenn Hubbard,0.0,No,0.0%
+480,José Vidro,0.0,No,0.0%
+481,Dan Uggla,0.0,No,0.0%
+482,Jim Gantner,0.0,No,0.0%
+483,Craig Counsell,0.0,No,0.0%
+484,Ronnie Belliard,0.0,No,0.0%
+485,Damion Easley,0.0,No,0.0%
+486,Adam Kennedy,0.0,No,0.0%
+487,Tony Taylor,0.0,No,0.0%
+488,Carlos Baerga,0.0,No,0.0%
+489,Tom Herr,0.0,No,0.0%
+490,Delino DeShields,0.0,No,0.0%
+491,Billy Goodman,0.0,No,0.0%
+492,Dave Cash,0.0,No,0.0%
+493,Kendrys Morales,0.0,No,0.0%
+494,Adam LaRoche,0.0,No,0.0%
+495,Sean Casey,0.0,No,0.0%
+496,Lyle Overbay,0.0,No,0.0%
+497,Jim Hegan,0.0,No,0.0%
+498,Bengie Molina,0.0,No,0.0%
+499,Frankie Hayes,0.0,No,0.0%
+500,Johnny Edwards,0.0,No,0.0%
+501,Brad Ausmus,0.0,No,0.0%
+502,Ramón Hernández,0.0,No,0.0%
+503,Terry Kennedy,0.0,No,0.0%
+504,A.J. Pierzynski,0.0,No,0.0%
+505,Rick Dempsey,0.0,No,0.0%
+506,Jason Varitek,0.0,No,0.0%
+507,Benito Santiago,0.0,No,0.0%
+508,Mike Scioscia,0.0,No,0.0%
+509,Bob Boone,0.0,No,0.0%
+510,Mike Napoli,0.0,No,0.0%
+511,Butch Wynegar,0.0,No,0.0%
+512,Tony Peña,0.0,No,0.0%
+513,Terry Steinbach,0.0,No,0.0%
+514,Tim McCarver,0.0,No,0.0%
+515,Sherm Lollar,0.0,No,0.0%
+516,Manny Sanguillén,0.0,No,0.0%
+517,Mickey Tettleton,0.0,No,0.0%
+518,Javy López,0.0,No,0.0%
+519,Brian McCann,0.0,No,0.0%
+520,Smoky Burgess,0.0,No,0.0%
+521,Víctor Martínez,0.0,No,0.0%
+522,Jim Sundberg,0.0,No,0.0%
+523,Darrell Porter,0.0,No,0.0%
+524,George Scott,0.0,No,0.0%
+525,Elbie Fletcher,0.0,No,0.0%
+526,Derrek Lee,0.0,No,0.0%
+527,Chris Chambliss,0.0,No,0.0%
+528,Bruce Bochte,0.0,No,0.0%
+529,Gregg Jefferies,0.0,No,0.0%
+530,Dan Driessen,0.0,No,0.0%
+531,Richie Sexson,0.0,No,0.0%
+532,Pete O'Brien,0.0,No,0.0%
+533,Donn Clendenon,0.0,No,0.0%
+534,Norm Siebern,0.0,No,0.0%
+535,Alvin Davis,0.0,No,0.0%
+536,Aubrey Huff,0.0,No,0.0%
+537,Mike Sweeney,0.0,No,0.0%
+538,Andre Thornton,0.0,No,0.0%
+539,Jason Thompson,0.0,No,0.0%
+540,Prince Fielder,0.0,No,0.0%
+541,Ron Fairly,0.0,No,0.0%
+542,John Mayberry,0.0,No,0.0%
+543,Ryan Klesko,0.0,No,0.0%
+544,Lee May,0.0,No,0.0%
+545,Carlos Peña,0.0,No,0.0%
+546,Tino Martinez,0.0,No,0.0%
+547,Justin Morneau,0.0,No,0.0%
+548,Bob Watson,0.0,No,0.0%
+549,Mo Vaughn,0.0,No,0.0%
+550,Mike Hargrove,0.0,No,0.0%
+551,Joe Adcock,0.0,No,0.0%
+552,Hal Trosky,0.0,No,0.0%
+553,Earl Torgeson,0.0,No,0.0%
+554,Glenn Beckert,0.0,No,0.0%
+555,Horace Clarke,0.0,No,0.0%
+556,Sid Gordon,0.0,No,0.0%
+557,Eddie Miller,0.0,No,0.0%
+558,Alexei Ramírez,0.0,No,0.0%
+559,Chico Carrasquel,0.0,No,0.0%
+560,Rick Burleson,0.0,No,0.0%
+561,Jack Wilson,0.0,No,0.0%
+562,Freddie Patek,0.0,No,0.0%
+563,Erick Aybar,0.0,No,0.0%
+564,Roy McMillan,0.0,No,0.0%
+565,Greg Gagne,0.0,No,0.0%
+566,Mike Bordick,0.0,No,0.0%
+567,Yunel Escobar,0.0,No,0.0%
+568,Leo Cárdenas,0.0,No,0.0%
+569,Denis Menke,0.0,No,0.0%
+570,Carlos Guillén,0.0,No,0.0%
+571,Roy Smalley,0.0,No,0.0%
+572,J.J. Hardy,0.0,No,0.0%
+573,Bill Russell,0.0,No,0.0%
+574,Chris Speier,0.0,No,0.0%
+575,José Valentín,0.0,No,0.0%
+576,Jhonny Peralta,0.0,No,0.0%
+577,Édgar Rentería,0.0,No,0.0%
+578,Scott Fletcher,0.0,No,0.0%
+579,Cecil Travis,0.0,No,0.0%
+580,Johnny Logan,0.0,No,0.0%
+581,José Reyes,0.0,No,0.0%
+582,Jay Bell,0.0,No,0.0%
+583,Rico Petrocelli,0.0,No,0.0%
+584,Mark Belanger,0.0,No,0.0%
+585,Marco Scutaro,0.0,No,0.0%
+586,Ozzie Guillén,0.0,No,0.0%
+587,Cass Michaels,0.0,No,0.0%
+588,David Eckstein,0.0,No,0.0%
+589,Carl Crawford,0.0,No,0.0%
+590,Brian Downing,0.0,No,0.0%
+591,Chris Gomez,0.0,No,0.0%
+592,Neifi Pérez,0.0,No,0.0%
+593,Alfredo Griffin,0.0,No,0.0%
+594,Tim Foli,0.0,No,0.0%
+595,Rafael Ramírez,0.0,No,0.0%
+596,José Vizcaíno,0.0,No,0.0%
+597,Álex González,0.0,No,0.0%
+598,Alex Gonzalez,0.0,No,0.0%
+599,Shawon Dunston,0.0,No,0.0%
+600,Iván de Jesús,0.0,No,0.0%
+601,Spike Owen,0.0,No,0.0%
+602,José Hernández,0.0,No,0.0%
+603,Julio Lugo,0.0,No,0.0%
+604,Cristian Guzmán,0.0,No,0.0%
+605,Ed Brinkman,0.0,No,0.0%
+606,Hubie Brooks,0.0,No,0.0%
+607,Walt Weiss,0.0,No,0.0%
+608,Ian Desmond,0.0,No,0.0%
+609,Bucky Dent,0.0,No,0.0%
+610,Rich Aurilia,0.0,No,0.0%
+611,Royce Clayton,0.0,No,0.0%
+612,Rey Sánchez,0.0,No,0.0%
+613,Bud Harrelson,0.0,No,0.0%
+614,Jeff Blauser,0.0,No,0.0%
+615,Granny Hamner,0.0,No,0.0%
+616,Mark Reynolds,0.0,No,0.0%
+617,Frankie Gustine,0.0,No,0.0%
+618,Charlie Hayes,0.0,No,0.0%
+619,Enos Cabell,0.0,No,0.0%
+620,Travis Fryman,0.0,No,0.0%
+621,Eddie Yost,0.0,No,0.0%
+622,Ken McMullen,0.0,No,0.0%
+623,Don Money,0.0,No,0.0%
+624,Jeff Cirillo,0.0,No,0.0%
+625,Carney Lansford,0.0,No,0.0%
+626,Tim Wallach,0.0,No,0.0%
+627,Eric Chavez,0.0,No,0.0%
+628,Troy Glaus,0.0,No,0.0%
+629,Doug DeCinces,0.0,No,0.0%
+630,Harlond Clift,0.0,No,0.0%
+631,Toby Harrah,0.0,No,0.0%
+632,Robin Ventura,0.0,No,0.0%
+633,Pete Suder,0.0,No,0.0%
+634,Tony Womack,0.0,No,0.0%
+635,Derrel Thomas,0.0,No,0.0%
+636,Tommy Helms,0.0,No,0.0%
+637,Todd Walker,0.0,No,0.0%
+638,Manny Trillo,0.0,No,0.0%
+639,Mickey Morandini,0.0,No,0.0%
+640,Cookie Rojas,0.0,No,0.0%
+641,Tito Fuentes,0.0,No,0.0%
+642,Sandy Alomar,0.0,No,0.0%
+643,Rickie Weeks,0.0,No,0.0%
+644,Julián Javier,0.0,No,0.0%
+645,Jerry Lumpe,0.0,No,0.0%
+646,Jorge Orta,0.0,No,0.0%
+647,Edgardo Alfonzo,0.0,No,0.0%
+648,Richie Hebner,0.0,No,0.0%
+649,Buddy Lewis,0.0,No,0.0%
+650,Juan Uribe,0.0,No,0.0%
+651,Héctor López,0.0,No,0.0%
+652,Dean Palmer,0.0,No,0.0%
+653,Ray Knight,0.0,No,0.0%
+654,David Bell,0.0,No,0.0%
+655,Larry Parrish,0.0,No,0.0%
+656,Aurelio Rodríguez,0.0,No,0.0%
+657,Brook Jacoby,0.0,No,0.0%
+658,Frank Malzone,0.0,No,0.0%
+659,Todd Zeile,0.0,No,0.0%
+660,Brandon Inge,0.0,No,0.0%
+661,Joe Randa,0.0,No,0.0%
+662,Vinny Castilla,0.0,No,0.0%
+663,Doug Rader,0.0,No,0.0%
+664,Melvin Mora,0.0,No,0.0%
+665,Ken Oberkfell,0.0,No,0.0%
+666,Chone Figgins,0.0,No,0.0%
+667,Willie Jones,0.0,No,0.0%
+668,Howard Johnson,0.0,No,0.0%
+669,Casey Blake,0.0,No,0.0%
+670,Mike Lowell,0.0,No,0.0%
+671,Ray Boone,0.0,No,0.0%
+672,Chase Headley,0.0,No,0.0%
+673,Clete Boyer,0.0,No,0.0%
+674,Bob Bailey,0.0,No,0.0%
+675,Martín Prado,0.0,No,0.0%
+676,Kevin Seitzer,0.0,No,0.0%
+677,Keith Moreland,0.0,No,0.0%
